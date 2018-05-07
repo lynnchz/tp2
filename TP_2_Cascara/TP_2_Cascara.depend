@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1525653184 source:e:\aafede\fac\tp2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1525654499 e:\aafede\fac\tp2\tp_2_cascara\funciones.h
+
+1525655380 source:e:\aafede\fac\tp2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
